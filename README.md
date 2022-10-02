@@ -1,7 +1,4 @@
-# MADPractical6_21012022022
-
-Study: VideoView, WebView, Orientation of Activity, 
-
+# MADPractical6_21012022009
 AIM: Create an Video player application by following below instructions.
 
 1. Create MainActivity and YoutubeActivity with landscape orientation
